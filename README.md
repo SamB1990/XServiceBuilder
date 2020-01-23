@@ -3,7 +3,7 @@ A c# service builder class library for a quicker way to add custom service colle
 
 
 ## AppSetting Options
- "XServiceOptionsCollection": {
+' "XServiceOptionsCollection": {
     "Options": [
       {
         "Type": "Todo.Options",
@@ -13,4 +13,4 @@ A c# service builder class library for a quicker way to add custom service colle
         }
       }
     ]
-  }
+  }'

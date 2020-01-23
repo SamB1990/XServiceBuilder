@@ -1,0 +1,11 @@
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\bin\Release\netstandard2.0\XServiceBuilderLibrary.deps.json
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\bin\Release\netstandard2.0\XServiceBuilderLibrary.dll
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\bin\Release\netstandard2.0\XServiceBuilderLibrary.pdb
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\bin\Release\netstandard2.0\XServiceBuilderLibrary.Abstractions.dll
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\bin\Release\netstandard2.0\XServiceBuilderLibrary.Abstractions.pdb
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\obj\Release\netstandard2.0\XServiceBuilderLibrary.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\obj\Release\netstandard2.0\XServiceBuilderLibrary.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\obj\Release\netstandard2.0\XServiceBuilderLibrary.AssemblyInfo.cs
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\obj\Release\netstandard2.0\XServiceBuilderLibrary.csproj.CopyComplete
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\obj\Release\netstandard2.0\XServiceBuilderLibrary.dll
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\obj\Release\netstandard2.0\XServiceBuilderLibrary.pdb

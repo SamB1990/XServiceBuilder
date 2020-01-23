@@ -7,12 +7,22 @@
     <Product>XServiceBuilder Library</Product>
     <Description>A c# service builder class library for a quicker way to add custom service collections</Description>
     <Copyright>Copyright (c) 2020 Sam Blundell</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/SamB1990/XServiceBuilder</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>ServiceCollection Extension Core DependencyInjection Dependency Injection</PackageTags>
+    <NeutralLanguage>English (United Kingdom)</NeutralLanguage>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="Abstractions\**" />
     <EmbeddedResource Remove="Abstractions\**" />
     <None Remove="Abstractions\**" />
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
   <ItemGroup>

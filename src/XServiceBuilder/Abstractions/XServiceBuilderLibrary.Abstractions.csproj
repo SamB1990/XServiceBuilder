@@ -2,11 +2,29 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Sam Blundell</Authors>
+    <Company>Sam Blundell Software</Company>
+    <Product>XServiceBuilder Library Abstractions</Product>
+    <Description>Abstractions library related to the XServiceBuilderLibrary (a c# service builder class library for a quicker way to add custom service collections)</Description>
+    <Copyright>Copyright (c) 2020 Sam Blundell</Copyright>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/SamB1990/XServiceBuilder</RepositoryUrl>
+    <RepositoryType>github</RepositoryType>
+    <PackageTags>ServiceCollection Extension Core DependencyInjection Dependency Injection</PackageTags>
+    <NeutralLanguage>English (United Kingdom)</NeutralLanguage>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.RazorPages" Version="2.2.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

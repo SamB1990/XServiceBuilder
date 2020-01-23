@@ -12,7 +12,7 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sam Blundell Software")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright (c) 2020 Sam Blundell")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A c# service builder class library for a quicker way to add custom service collec" +
     "tions")]

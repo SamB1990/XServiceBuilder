@@ -13,6 +13,7 @@
     <PackageTags>ServiceCollection Extension Core DependencyInjection Dependency Injection</PackageTags>
     <NeutralLanguage>English (United Kingdom)</NeutralLanguage>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

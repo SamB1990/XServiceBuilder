@@ -13,6 +13,7 @@
     <RepositoryType>github</RepositoryType>
     <PackageTags>ServiceCollection Extension Core DependencyInjection Dependency Injection</PackageTags>
     <NeutralLanguage>English (United Kingdom)</NeutralLanguage>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <ItemGroup>

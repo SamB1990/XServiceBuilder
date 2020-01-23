@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\sam\\source\\repos\\XServiceBuilder\\src\\XServiceBuilder\\Abstractions\\XServiceBuilderLibrary.Abstractions.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\sam\\source\\repos\\XServiceBuilder\\src\\XServiceBuilder\\Abstractions\\XServiceBuilderLibrary.Abstractions.csproj",
         "projectName": "XServiceBuilderLibrary.Abstractions",
@@ -73,7 +73,7 @@
       }
     },
     "C:\\Users\\sam\\source\\repos\\XServiceBuilder\\src\\XServiceBuilder\\XServiceBuilderLibrary.csproj": {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "restore": {
         "projectUniqueName": "C:\\Users\\sam\\source\\repos\\XServiceBuilder\\src\\XServiceBuilder\\XServiceBuilderLibrary.csproj",
         "projectName": "XServiceBuilderLibrary",

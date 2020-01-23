@@ -47,14 +47,8 @@ namespace XServiceBuilderLibrary
                     .Select(i => new KeyValuePair<Type, Type>(t, i)));
             foreach (var match in matches)
             {
-                if (((IXService) match.Value).InjectionType == DependencyInjectionType.Scoped)
-                    Services.TryAddScoped(match.Value, match.Key);
-
-                if (((IXService)match.Value).InjectionType == DependencyInjectionType.Singleton)
-                    Services.TryAddSingleton(match.Value, match.Key);
-
-                if (((IXService)match.Value).InjectionType == DependencyInjectionType.Transient)
-                    Services.TryAddTransient(match.Value, match.Key);
+                Services.TryAddScoped(match.Value, match.Key);
+                
             }
 
             /*Old way of doing*/

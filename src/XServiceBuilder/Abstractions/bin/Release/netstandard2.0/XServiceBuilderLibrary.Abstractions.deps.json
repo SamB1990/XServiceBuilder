@@ -7,7 +7,7 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "XServiceBuilderLibrary.Abstractions/1.0.0": {
+      "XServiceBuilderLibrary.Abstractions/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.AspNetCore.Mvc.RazorPages": "2.2.5",
@@ -1706,7 +1706,7 @@
     }
   },
   "libraries": {
-    "XServiceBuilderLibrary.Abstractions/1.0.0": {
+    "XServiceBuilderLibrary.Abstractions/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

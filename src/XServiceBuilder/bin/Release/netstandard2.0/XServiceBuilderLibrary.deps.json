@@ -7,14 +7,14 @@
   "targets": {
     ".NETStandard,Version=v2.0": {},
     ".NETStandard,Version=v2.0/": {
-      "XServiceBuilderLibrary/1.0.0": {
+      "XServiceBuilderLibrary/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc": "2.2.0",
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.Extensions.DependencyInjection": "3.1.1",
           "Microsoft.Extensions.Options.ConfigurationExtensions": "3.1.1",
           "NETStandard.Library": "2.0.3",
-          "XServiceBuilderLibrary.Abstractions": "1.0.0"
+          "XServiceBuilderLibrary.Abstractions": "1.0.1"
         },
         "runtime": {
           "XServiceBuilderLibrary.dll": {}
@@ -1869,7 +1869,7 @@
           }
         }
       },
-      "XServiceBuilderLibrary.Abstractions/1.0.0": {
+      "XServiceBuilderLibrary.Abstractions/1.0.1": {
         "dependencies": {
           "Microsoft.AspNetCore.Mvc.Core": "2.2.5",
           "Microsoft.AspNetCore.Mvc.RazorPages": "2.2.5"
@@ -1881,7 +1881,7 @@
     }
   },
   "libraries": {
-    "XServiceBuilderLibrary/1.0.0": {
+    "XServiceBuilderLibrary/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -3006,7 +3006,7 @@
       "path": "system.xml.xpath.xdocument/4.3.0",
       "hashPath": "system.xml.xpath.xdocument.4.3.0.nupkg.sha512"
     },
-    "XServiceBuilderLibrary.Abstractions/1.0.0": {
+    "XServiceBuilderLibrary.Abstractions/1.0.1": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

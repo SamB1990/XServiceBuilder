@@ -2362,7 +2362,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
-      "XServiceBuilderLibrary.Abstractions/1.0.0": {
+      "XServiceBuilderLibrary.Abstractions/1.0.1": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -7308,7 +7308,7 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
-    "XServiceBuilderLibrary.Abstractions/1.0.0": {
+    "XServiceBuilderLibrary.Abstractions/1.0.1": {
       "type": "project",
       "path": "Abstractions/XServiceBuilderLibrary.Abstractions.csproj",
       "msbuildProject": "Abstractions/XServiceBuilderLibrary.Abstractions.csproj"
@@ -7321,7 +7321,7 @@
       "Microsoft.Extensions.DependencyInjection >= 3.1.1",
       "Microsoft.Extensions.Options.ConfigurationExtensions >= 3.1.1",
       "NETStandard.Library >= 2.0.3",
-      "XServiceBuilderLibrary.Abstractions >= 1.0.0"
+      "XServiceBuilderLibrary.Abstractions >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -7330,7 +7330,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\sam\\source\\repos\\XServiceBuilder\\src\\XServiceBuilder\\XServiceBuilderLibrary.csproj",
       "projectName": "XServiceBuilderLibrary",

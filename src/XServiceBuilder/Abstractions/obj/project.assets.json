@@ -6904,7 +6904,7 @@
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "restore": {
       "projectUniqueName": "C:\\Users\\sam\\source\\repos\\XServiceBuilder\\src\\XServiceBuilder\\Abstractions\\XServiceBuilderLibrary.Abstractions.csproj",
       "projectName": "XServiceBuilderLibrary.Abstractions",

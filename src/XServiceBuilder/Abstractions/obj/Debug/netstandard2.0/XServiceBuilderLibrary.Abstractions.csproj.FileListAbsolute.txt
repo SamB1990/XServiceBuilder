@@ -1,0 +1,8 @@
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\bin\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.deps.json
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\bin\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.dll
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\bin\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.pdb
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\obj\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.csprojAssemblyReference.cache
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\obj\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.AssemblyInfoInputs.cache
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\obj\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.AssemblyInfo.cs
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\obj\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.dll
+C:\Users\sam\source\repos\XServiceBuilder\src\XServiceBuilder\Abstractions\obj\Debug\netstandard2.0\XServiceBuilderLibrary.Abstractions.pdb
